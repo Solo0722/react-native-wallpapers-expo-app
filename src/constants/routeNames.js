@@ -1,0 +1,10 @@
+export const HOME = "Home";
+export const SEARCH = "Search";
+export const FAVORITES = "Favorites";
+export const DOWNLOADS = "Downloads";
+export const CATEGORIES = "Categories";
+export const PICTUREDETAIL = "Picture Detail";
+export const HOMENAVIGATOR = "Home Navigator";
+export const DOWNLOADSNAVIGATOR = "Downloads Navigator";
+export const SEARCHNAVIGATOR = "Search Navigator";
+export const FAVORITESNAVIGATOR = "Favorites Navigator";
